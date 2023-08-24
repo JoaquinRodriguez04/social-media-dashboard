@@ -1,0 +1,106 @@
+{
+  "cardsFollowers": [
+    {
+      "id": 1,
+      "img": "src/assets/icons/icon-facebook.svg",
+      "followers": 1987,
+      "numberToday": 12,
+      "profile": "@nathanf",
+      "socialNetwork": "facebook",
+      "less": true
+    },
+    {
+      "id": 2,
+      "img": "src/assets/icons/icon-twitter.svg",
+      "followers": 1044,
+      "numberToday": 99,
+      "profile": "@nathanf",
+      "socialNetwork": "twitter",
+      "less": true
+    },
+    {
+      "id": 3,
+      "img": "src/assets/icons/icon-instagram.svg",
+      "followers": 11000,
+      "numberToday": 1099,
+      "profile": "@realnathanf",
+      "socialNetwork": "instagram",
+      "less": true
+    },
+    {
+      "id": 4,
+      "img": "src/assets/icons/icon-youtube.svg",
+      "followers": 8239,
+      "numberToday": 144,
+      "profile": "@Nathan f.",
+      "socialNetwork": "youtube",
+      "less": false
+    }
+  ],
+  "cardsToday": [
+    {
+      "id": 1,
+      "title": "Page Views",
+      "img": "src/assets/icons/icon-facebook.svg",
+      "number": 87,
+      "percentaje": 3,
+      "less": true
+    },
+    {
+      "id": 2,
+      "title": "Likes",
+      "img": "src/assets/icons/icon-facebook.svg",
+      "number": 52,
+      "percentaje": 2,
+      "less": false
+    },
+    {
+      "id": 3,
+      "title": "Likes",
+      "img": "src/assets/icons/icon-instagram.svg",
+      "number": 5462,
+      "percentaje": 2257,
+      "less": true
+    },
+    {
+      "id": 4,
+      "title": "Profile Views",
+      "img": "src/assets/icons/icon-instagram.svg",
+      "number": 52000,
+      "percentaje": 1375,
+      "less": true
+    },
+    {
+      "id": 5,
+      "title": "Retweets",
+      "img": "src/assets/icons/icon-twitter.svg",
+      "number": 117,
+      "percentaje": 303,
+      "less": true
+    },
+    {
+      "id": 6,
+      "title": "Likes",
+      "img": "src/assets/icons/icon-twitter.svg",
+      "number": 507,
+      "percentaje": 553,
+      "less": true
+    },
+    {
+      "id": 7,
+      "title": "Likes",
+      "img": "src/assets/icons/icon-youtube.svg",
+      "number": 107,
+      "percentaje": 19,
+      "less": false
+    },
+    {
+      "id": 8,
+      "title": "Total Views",
+      "img": "src/assets/icons/icon-youtube.svg",
+      "number": 1407,
+      "percentaje": 12,
+      "less": false
+    }
+  ]
+}

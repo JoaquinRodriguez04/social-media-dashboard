@@ -1,0 +1,24 @@
+/* seteando los estilos generales*/
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* estilizando la etiqueta a */
+a {
+  text-decoration: none;
+}
+
+/* estilizando la etiqueta li */
+li{
+  list-style: none;
+}
+
+/* estilizando el button */
+:is(button,input) {
+  background-color: transparent;
+  border: 1px solid transparent;
+  cursor: pointer;
+  outline: none;
+}

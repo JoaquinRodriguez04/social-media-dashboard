@@ -4,6 +4,11 @@ import { SocialContext } from "./SocialContext";
 // icons
 import up from '../assets/icons/icon-up.svg';
 import down from '../assets/icons/icon-down.svg';
+import facebook from '../assets/icons/icon-facebook.svg';
+import instagram from '../assets/icons/icon-instagram.svg';
+import twitter from '../assets/icons/icon-twitter.svg';
+import youtube from '../assets/icons/icon-youtube.svg';
+
 
 const FollowersSocial = () => {
 
